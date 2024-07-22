@@ -1,5 +1,3 @@
-def pop(fhdsgfsw):
-    ...
 def solve(expression):
     operator_precedence = {"^": 4, "/": 3, "*": 2, "+": 1, "-": 1}
     # bodmas_index will store the index of all the operators in the equation
